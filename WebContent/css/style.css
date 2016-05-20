@@ -1,0 +1,32 @@
+body{
+	margin:0;
+	padding:0;
+}
+.center {
+	postion:relative;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+}
+.center table{
+	border-collapse:collapse;
+	margin-left: 15%;
+	margin-right: 15%;
+	width:70%;
+}
+div p{
+	text-align: center;
+}
+.right{
+	position: absolute;
+	right: 18px;
+	top:18px;
+}
+.exp{
+	margin-top:10px;
+}
+.back{
+	margin-top:10px;
+	margin-bottom:10px;
+}
